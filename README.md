@@ -42,32 +42,56 @@ Tests
 ----------
 
 [TestCase("1", "I")]
+
 [TestCase("2", "II")]
+
 [TestCase("3", "III")]
+
 [TestCase("4", "IV")]
+
 [TestCase("5", "V")]
+
 [TestCase("6", "VI")]
+
 [TestCase("7", "VII")]
+
 [TestCase("8", "VIII")]
+
 [TestCase("291", "CCXCI")]
+
 [TestCase("49", "XLIX")]
+
 [TestCase("490", "CDXC")]
+
 [TestCase("950", "CML")]
+
 [TestCase("999", "CMXCIX")]
 
 Array
 ------
 
 (1000, "M");
+
 (900, "CM");
+
 (500, "D");
+
 (400, "CD");
+
 (100, "C");
+
 (90, "XC");
+
 (50, "L");
+
 (40, "XL");
+
 (10, "X");
+
 (9, "IX");
+
 (5, "V");
+
 (4, "IV");
+
 (1, "I");
